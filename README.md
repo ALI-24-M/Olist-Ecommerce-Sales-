@@ -22,12 +22,9 @@ This project involves importing the Brazilian E-Commerce (Olist) dataset from Ka
 The Olist dataset consists of multiple relational tables (customers, orders, order items, products, sellers, etc.). Below is how the tables are connected via Primary and Foreign keys:
 
 * *orders* connects to *customers* via customer_id
-* *order_items* connects to *orders* via order_id and *products* via product_id
+* *order_items* connects to *orders* via order_id and *products* via product_i
 
-(Optional: Insert an Entity-Relationship Diagram (ERD) image here if you generated one)
-
----
-
+---WhatsApp Image 2026-06-22 at 4.37.56 PM
 ## 🔍 Key SQL Queries & Analytics
 Here are some of the primary business questions answered using SQL:
 
