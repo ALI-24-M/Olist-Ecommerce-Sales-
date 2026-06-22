@@ -24,7 +24,7 @@ The Olist dataset consists of multiple relational tables (customers, orders, ord
 * *orders* connects to *customers* via customer_id
 * *order_items* connects to *orders* via order_id and *products* via product_i
 
-
+![Database ERD](red.png.jpeg)
 ## 🔍 Key SQL Queries & Analytics
 Here are some of the primary business questions answered using SQL:
 
