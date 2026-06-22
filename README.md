@@ -1,6 +1,6 @@
 # Student Information /
-* *Student Name:* Ali Abdullah Al-Barhami[span_0](start_span)[span_0](end_span)
-* *Student ID:* 220201878[span_1](start_span)[span_1](end_span)
+* *Student Name:* Ali Abdullah Al-Barhami(start_span)(end_span)
+* *Student ID:* 220201878(start_span)(end_span)
 
 ---
 # Olist Brazilian E-Commerce Sales Data Analysis
